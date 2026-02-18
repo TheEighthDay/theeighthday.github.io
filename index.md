@@ -15,12 +15,15 @@ I am an algorithm engineer at [TikTok](https://www.tiktok.com/). I received my M
 
 ## News
 
+- **[2025]** We open-sourced [SeekWorld](https://github.com/TheEighthDay/SeekWorld), a tool designed for geolocation reasoning tasks. ⭐ 60+
 - **[2025]** Our paper "IFSR" about preference alignment of LLM is accepted to EMNLP Findings 2025.
 - **[2024]** Our paper "TeachCLIP" about text-to-video retrieval is accepted to CVPR 2024.
 - **[2024]** Our paper "EERCF" about text-to-video retrieval is accepted to AAAI 2024.
 - **[2023]** Our paper "ChinaOpen" (a new video dataset targeted at open-world multimodal learning) is accepted to ACM MM 2023.
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/competitions.md %}
 

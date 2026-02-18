@@ -11,7 +11,7 @@
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
+    <abbr class="badge" style="background-color:#e74d3c;">{{ link.conference_short }}</abbr>
     {% endif %}
     {% endif %}
   </div>
@@ -34,7 +34,7 @@
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      <strong> <i style="color:#e74d3c;">{{ link.notes }}</i></strong>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}

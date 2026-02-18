@@ -22,4 +22,6 @@ I am an algorithm engineer at [TikTok](https://www.tiktok.com/). I received my M
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/competitions.md %}
+
 {% include_relative _includes/services.md %}

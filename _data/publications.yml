@@ -1,22 +1,47 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Improving Preference Alignment of LLM with Inference-Free Self-Refinement"
+    authors: Fukun Ma, <strong>Kaibin Tian</strong>, Jieting Xue, Xiaoyi Wang, Ye Ma, Quan Chen, Peng Jiang, Lijie Wen
+    conference_short: EMNLP
+    conference: Findings of the Association for Computational Linguistics <strong>(EMNLP Findings)</strong>, 2025.
+    pdf: https://aclanthology.org/2025.findings-emnlp.1329/
+    notes: CCF-B
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval"
+    authors: <strong>Kaibin Tian</strong>, Ruixiang Zhao, Hu Hu, Runquan Xie, Fengzong Lian, Zhanhui Kang, Xirong Li
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2308.01217.pdf
+    code: https://github.com/ruc-aimc-lab/TeachCLIP
+    notes: CCF-A
+
+  - title: "Towards Efficient and Effective Text-to-Video Retrieval with Coarse-to-Fine Visual Representation Learning"
+    authors: <strong>Kaibin Tian</strong>, Yanhua Cheng, Yi Liu, Xinglin Hou, Quan Chen, Han Li
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2401.00701
+    code: https://github.com/adxcreative/EERCF
+    notes: CCF-A
+
+  - title: "ChinaOpen: A Dataset for Open-world Multimodal Learning"
+    authors: Aozhu Chen, Ziyuan Wang, Chengbo Dong, <strong>Kaibin Tian</strong>, Ruixiang Zhao, Xun Liang, Zhanhui Kang, Xirong Li
+    conference_short: ACMMM
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2305.05880.pdf
+    code: https://github.com/JewelChen2019/ChinaOpen
+    notes: CCF-A
+
+  - title: "Co-Teaching for Unsupervised Domain Adaptation and Expansion"
+    authors: <strong>Kaibin Tian</strong>, Qijie Wei, Xirong Li
+    conference_short: arXiv
+    conference: arXiv preprint, 2022.
+    pdf: https://arxiv.org/abs/2204.01210
+    code: https://github.com/TheEighthDay/Co-teaching
+
+  - title: "Unsupervised Domain Expansion for Visual Categorization"
+    authors: Jie Wang, <strong>Kaibin Tian</strong>, Dayong Ding, Gang Yang, Xirong Li
+    conference_short: TOMM
+    conference: ACM Transactions on Multimedia Computing, Communications and Applications <strong>(TOMM)</strong>, 2021.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3448108
+    code: https://github.com/TheEighthDay/ude
+    notes: CCF-B

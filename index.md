@@ -15,10 +15,10 @@ I am an algorithm engineer at [TikTok](https://www.tiktok.com/). I received my M
 
 ## News
 
-- **[2025]** Our paper about preference alignment of LLM is accepted to EMNLP Findings 2025.
-- **[2024]** Our paper "TeachCLIP" is accepted to CVPR 2024.
-- **[2024]** Our paper about text-to-video retrieval is accepted to AAAI 2024.
-- **[2023]** Our paper "ChinaOpen" is accepted to ACM MM 2023.
+- **[2025]** Our paper "IFSR" about preference alignment of LLM is accepted to EMNLP Findings 2025.
+- **[2024]** Our paper "TeachCLIP" about text-to-video retrieval is accepted to CVPR 2024.
+- **[2024]** Our paper "EERCF" about text-to-video retrieval is accepted to AAAI 2024.
+- **[2023]** Our paper "ChinaOpen" (a new video dataset targeted at open-world multimodal learning) is accepted to ACM MM 2023.
 
 {% include_relative _includes/publications.md %}
 

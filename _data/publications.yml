@@ -40,7 +40,7 @@ main:
     image: ./assets/img/papers/arxiv2022.png
 
   - title: "Unsupervised Domain Expansion for Visual Categorization"
-    authors: Jie Wang, <strong>Kaibin Tian</strong>, Dayong Ding, Gang Yang, Xirong Li
+    authors: Jie Wang*, <strong>Kaibin Tian*</strong>, Dayong Ding, Gang Yang, Xirong Li (*Equal contribution)
     conference_short: TOMM
     conference: ACM Transactions on Multimedia Computing, Communications and Applications <strong>(TOMM)</strong>, 2021.
     pdf: https://dl.acm.org/doi/abs/10.1145/3448108

@@ -1,5 +1,12 @@
 main:
 
+  - title: "BubbleSpec: Turning Long-Tail Bubbles into Speculative Rollout Drafts for Synchronous Reinforcement Learning"
+    authors: Yuhang Xu*, <strong>Kaibin Tian*</strong>, Yang Tian, Zhice Yang, Yifeng Yu, Yan Li, Shengzhong Liu, Fan Wu, Guihai Chen
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2605.08862
+    image: ./assets/img/papers/icml2026.jpeg
+
   - title: "Improving Preference Alignment of LLM with Inference-Free Self-Refinement"
     authors: Fukun Ma, <strong>Kaibin Tian</strong>, Jieting Xue, Xiaoyi Wang, Ye Ma, Quan Chen, Peng Jiang, Lijie Wen
     conference_short: EMNLP
